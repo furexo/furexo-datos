@@ -1,0 +1,474 @@
+{
+ "name": "pesca-fotos",
+ "version": "1.0",
+ "date": "2026-10-30",
+ "title": "Pesca · fotografías",
+ "desc": "Fotos reales para identificar las especies (Wikimedia Commons, con autor y licencia)",
+ "entries": {
+  "fotos": 69,
+  "especies": 44
+ },
+ "files": [
+  {
+   "path": "img/dentex-dentex-1.jpg",
+   "size": 177432,
+   "sha256": "6743a242d2dca6aa0f03998e4c23f0b9e67aa5bd0dba88d48779ab0b976162a7",
+   "especie": "dentex-dentex"
+  },
+  {
+   "path": "img/dentex-dentex-2.jpg",
+   "size": 217671,
+   "sha256": "ed49c841cad81021db9fcb72e86bda91519c369dab00cdd70c530c9be7c1f9de",
+   "especie": "dentex-dentex"
+  },
+  {
+   "path": "img/argyrosomus-regius-1.jpg",
+   "size": 227629,
+   "sha256": "6fb007d718848f4f8fdefbbf428e31c3dae6d9701a4b7e4175e1ac6b71cc8150",
+   "especie": "argyrosomus-regius"
+  },
+  {
+   "path": "img/belone-belone-1.jpg",
+   "size": 113146,
+   "sha256": "ecb53940d0e8d66471ceca4998b01f344eb42ce38a0eb731959dacaca7517b80",
+   "especie": "belone-belone"
+  },
+  {
+   "path": "img/belone-belone-2.jpg",
+   "size": 62259,
+   "sha256": "a860cc5fa3ad508998f7781a73a7e32012d2235c65641eee585dc59e574cb61f",
+   "especie": "belone-belone"
+  },
+  {
+   "path": "img/conger-conger-1.jpg",
+   "size": 184446,
+   "sha256": "9f82a5852596220e1c8e9e5c992fa433d4afb69e9a3e01c4d9cfe448da05c2bf",
+   "especie": "conger-conger"
+  },
+  {
+   "path": "img/boops-boops-1.jpg",
+   "size": 246574,
+   "sha256": "bdcdae4d0896c769880e756c1d1d29e854b78be13a367d5bfd5c5d979b7f9477",
+   "especie": "boops-boops"
+  },
+  {
+   "path": "img/coryphaena-hippurus-1.jpg",
+   "size": 70887,
+   "sha256": "0073987e1b185b6928568ea39b80738b192dc2408d77c3a1f9d8d1494f0330ee",
+   "especie": "coryphaena-hippurus"
+  },
+  {
+   "path": "img/dicentrarchus-labrax-1.jpg",
+   "size": 144362,
+   "sha256": "b78fcbcbb5bd621c6d2170118c65b120539a05f4cd7897650bab3a1483092cdf",
+   "especie": "dicentrarchus-labrax"
+  },
+  {
+   "path": "img/dicentrarchus-labrax-2.jpg",
+   "size": 113060,
+   "sha256": "6c80784c372999b9b2914deb3c42635c8366d811115f80c45d6bbeaf2cfebdad",
+   "especie": "dicentrarchus-labrax"
+  },
+  {
+   "path": "img/diplodus-sargus-1.jpg",
+   "size": 295748,
+   "sha256": "0caa5f1847aa4b97d061c0b503e885f89bbba6b968880b7dce0667cd67eb769b",
+   "especie": "diplodus-sargus"
+  },
+  {
+   "path": "img/diplodus-sargus-2.jpg",
+   "size": 317322,
+   "sha256": "e9c624f3f267b250ed61defd7404f5db793a18cd2f83bd4fa3097f2003fab74b",
+   "especie": "diplodus-sargus"
+  },
+  {
+   "path": "img/diplodus-vulgaris-1.jpg",
+   "size": 92894,
+   "sha256": "53eb42d1a0bae5810a026d5aae3c8959798f51da039c58f3696e9ef120c679d1",
+   "especie": "diplodus-vulgaris"
+  },
+  {
+   "path": "img/epinephelus-marginatus-1.jpg",
+   "size": 298666,
+   "sha256": "252a36f85787c79f6397c6227ead97c6bfb92854568ab9580c4fb0cfd5652817",
+   "especie": "epinephelus-marginatus"
+  },
+  {
+   "path": "img/epinephelus-marginatus-2.jpg",
+   "size": 128027,
+   "sha256": "6ef34e422e10e004664ee1413f6fc8f48363b5f8b02e95e0dbb32b9b2f2a635a",
+   "especie": "epinephelus-marginatus"
+  },
+  {
+   "path": "img/euthynnus-alletteratus-1.jpg",
+   "size": 146892,
+   "sha256": "05aaf2f34734f7959d6556ccc413557ec1765ec697be2b7278f6e45797395941",
+   "especie": "euthynnus-alletteratus"
+  },
+  {
+   "path": "img/euthynnus-alletteratus-2.jpg",
+   "size": 305849,
+   "sha256": "afadcb241eff58a6c633a054a2a56f0026fd037ea9b99bea9e92ef1aa907af9a",
+   "especie": "euthynnus-alletteratus"
+  },
+  {
+   "path": "img/lagocephalus-sceleratus-1.jpg",
+   "size": 151234,
+   "sha256": "440462a406fe305374681df6a9ea1810c729fb620f6f2c7c7069ae806aef9b7f",
+   "especie": "lagocephalus-sceleratus"
+  },
+  {
+   "path": "img/lepidorhombus-boscii-1.jpg",
+   "size": 62956,
+   "sha256": "a21ed226e949e453f2381cc005e9bc2997ee6e5923052a0a3660e8c888a2d827",
+   "especie": "lepidorhombus-boscii"
+  },
+  {
+   "path": "img/merluccius-merluccius-1.jpg",
+   "size": 70461,
+   "sha256": "d41ccf63a4836afd2168a8005816e29cbf096b71b45507c84de6d2cf6fd02b10",
+   "especie": "merluccius-merluccius"
+  },
+  {
+   "path": "img/merluccius-merluccius-2.jpg",
+   "size": 280324,
+   "sha256": "e0a592c3feab18a0caa0142d93052fec731e472b9fc6720488c54e67d18491ab",
+   "especie": "merluccius-merluccius"
+  },
+  {
+   "path": "img/mullus-surmuletus-1.jpg",
+   "size": 260524,
+   "sha256": "695a38834b486f0a64f36739f97fa21714f7e382253dd8dfa9ae918f74e25763",
+   "especie": "mullus-surmuletus"
+  },
+  {
+   "path": "img/mullus-surmuletus-2.jpg",
+   "size": 261986,
+   "sha256": "eb64475a2357f90cb18900a07c3131889df65f82dcb455540e19a030e7c3256b",
+   "especie": "mullus-surmuletus"
+  },
+  {
+   "path": "img/muraena-helena-1.jpg",
+   "size": 178921,
+   "sha256": "01f8bfb14fde2a02f936108d797c9bb8502a10881fdeedfee255d1f808a8baba",
+   "especie": "muraena-helena"
+  },
+  {
+   "path": "img/muraena-helena-2.jpg",
+   "size": 137429,
+   "sha256": "5dac17a25d0d18c36a4cb19a455659898f55a5e0bd9e5e06c99bee049811ea0f",
+   "especie": "muraena-helena"
+  },
+  {
+   "path": "img/pagellus-acarne-1.jpg",
+   "size": 117900,
+   "sha256": "748dd57deceb7c438e71715fb6e651be381530a484b2fd4ca500f62ca92578c2",
+   "especie": "pagellus-acarne"
+  },
+  {
+   "path": "img/pagellus-acarne-2.jpg",
+   "size": 126253,
+   "sha256": "8b20bddf3dbcffa03082eef1e32050c12be214a329cbe8893e9340b85965bc70",
+   "especie": "pagellus-acarne"
+  },
+  {
+   "path": "img/pagrus-pagrus-1.jpg",
+   "size": 177905,
+   "sha256": "e33aac3f06cd186296a93b8fe3016e19c9409475e5a33734b4c300fad4503be1",
+   "especie": "pagrus-pagrus"
+  },
+  {
+   "path": "img/pagrus-pagrus-2.jpg",
+   "size": 68866,
+   "sha256": "0becf6ce05b57164be57dcfbfc56c6e918beffeaa6b744a0ff4b724097663284",
+   "especie": "pagrus-pagrus"
+  },
+  {
+   "path": "img/polyprion-americanus-1.jpg",
+   "size": 207935,
+   "sha256": "3f7397b11206b7a663e44d7fcf2c049283ab87c9a2a19f88c4fcd8460eb2a5e8",
+   "especie": "polyprion-americanus"
+  },
+  {
+   "path": "img/polyprion-americanus-2.jpg",
+   "size": 339122,
+   "sha256": "1051b1917a6df8c46ab3d365e276c26d517810bde719ac07ed7cf64072b0a4a7",
+   "especie": "polyprion-americanus"
+  },
+  {
+   "path": "img/pterois-miles-1.jpg",
+   "size": 168225,
+   "sha256": "3a48d913b1158ac4469cb5fb7519f8048c86c10e38f009d961a21c1dc53d3bb1",
+   "especie": "pterois-miles"
+  },
+  {
+   "path": "img/scomber-colias-1.jpg",
+   "size": 320223,
+   "sha256": "3658eed8112eb07ef3ee7dec09dfdcc2c6b37a8040aa21a1554134b7dd8af3f4",
+   "especie": "scomber-colias"
+  },
+  {
+   "path": "img/scomber-scombrus-1.jpg",
+   "size": 127146,
+   "sha256": "fa7a2066eb1b82ed8a4009925b15a9cff5627083a574e3e8f787eb83f41336a0",
+   "especie": "scomber-scombrus"
+  },
+  {
+   "path": "img/scorpaena-scrofa-1.jpg",
+   "size": 104345,
+   "sha256": "904fde90cd22f7cc85fc3cd7a670bad5e2273b5e4f3ccbdbb34f52a8351cdc79",
+   "especie": "scorpaena-scrofa"
+  },
+  {
+   "path": "img/scorpaena-scrofa-2.jpg",
+   "size": 245116,
+   "sha256": "f5a2365782211d70dcaadd2b7487abcb7cebe38a7993ebdc0cc2a293c3dd3e41",
+   "especie": "scorpaena-scrofa"
+  },
+  {
+   "path": "img/seriola-dumerili-1.jpg",
+   "size": 200991,
+   "sha256": "cd3975b4738625f3269e754c3db7f5d04797d927ad029428f859ab889e7b4280",
+   "especie": "seriola-dumerili"
+  },
+  {
+   "path": "img/seriola-dumerili-2.jpg",
+   "size": 108106,
+   "sha256": "42ab7262c201eafd9bda413e5864940d4e4dcfe18b6e41bf342e97f5570a43f9",
+   "especie": "seriola-dumerili"
+  },
+  {
+   "path": "img/serranus-cabrilla-1.jpg",
+   "size": 187432,
+   "sha256": "b9d9696e10abed686692a1de85c8a2792ab1edfdea5717096edff2989d3eb9e0",
+   "especie": "serranus-cabrilla"
+  },
+  {
+   "path": "img/serranus-cabrilla-2.jpg",
+   "size": 187648,
+   "sha256": "ecb7c6c457c37fb023856fea79a8abc6d2507718a6e4009c9e7727f7dbf5b518",
+   "especie": "serranus-cabrilla"
+  },
+  {
+   "path": "img/serranus-scriba-1.jpg",
+   "size": 142842,
+   "sha256": "16f7b1e8d8cb5e185ad4cf3d1d5994c2e13b1b3a8c93ebb6faa1741daee1d680",
+   "especie": "serranus-scriba"
+  },
+  {
+   "path": "img/serranus-scriba-2.jpg",
+   "size": 167159,
+   "sha256": "d0b0928ce6c17b9b4b99494c8118e160866b5a212b70edab5e46e65bf052d4c3",
+   "especie": "serranus-scriba"
+  },
+  {
+   "path": "img/sparus-aurata-1.jpg",
+   "size": 143938,
+   "sha256": "85b1998a9e4b20474280a181dfbb16f1bb05a93f5628ba5ce622fafeb6e77dc3",
+   "especie": "sparus-aurata"
+  },
+  {
+   "path": "img/sparus-aurata-2.jpg",
+   "size": 151912,
+   "sha256": "8251911184b84b43e7205052b141cb85d85557969edcd82b2997196dd553fdf3",
+   "especie": "sparus-aurata"
+  },
+  {
+   "path": "img/spondyliosoma-cantharus-1.jpg",
+   "size": 117794,
+   "sha256": "61548c5b3f572718b6dfaccd4bae9f13b059e64152448653b6b5a98b15cb545b",
+   "especie": "spondyliosoma-cantharus"
+  },
+  {
+   "path": "img/spondyliosoma-cantharus-2.jpg",
+   "size": 213567,
+   "sha256": "6018fac1cad04f70c61d851e492d03f33877965e8b6adf02d89dca9d11135357",
+   "especie": "spondyliosoma-cantharus"
+  },
+  {
+   "path": "img/thunnus-thynnus-1.jpg",
+   "size": 71916,
+   "sha256": "282a7a42b5d2b3ecd747df7595b5c218f78c1dbfddf63488ad1ab864597af0b6",
+   "especie": "thunnus-thynnus"
+  },
+  {
+   "path": "img/thunnus-thynnus-2.jpg",
+   "size": 172338,
+   "sha256": "450e0f0ccdc17b3eb907d372cad9b3fad52fdf14f45616b7b42737f3b77d9343",
+   "especie": "thunnus-thynnus"
+  },
+  {
+   "path": "img/thunnus-alalunga-1.jpg",
+   "size": 75129,
+   "sha256": "d40072dbc39b616cf12c8459e83426adfd5c4f472b07430a82b079df192c8ae2",
+   "especie": "thunnus-alalunga"
+  },
+  {
+   "path": "img/sphyraena-viridensis-1.jpg",
+   "size": 98845,
+   "sha256": "46f374bb25c6ecd6661ce335215b251e5d25d496e612878e616100aadf20e87e",
+   "especie": "sphyraena-viridensis"
+  },
+  {
+   "path": "img/sarda-sarda-1.jpg",
+   "size": 179655,
+   "sha256": "363ed57e6232cabbb77dd87ee25af437b3c89b2a9231f31bce7c6934bfaf6a38",
+   "especie": "sarda-sarda"
+  },
+  {
+   "path": "img/sarda-sarda-2.jpg",
+   "size": 84246,
+   "sha256": "4ae587988e6b7c31fcd14abc4bc15460e247afc618d48003b62b402a83dcda01",
+   "especie": "sarda-sarda"
+  },
+  {
+   "path": "img/pomatomus-saltatrix-1.jpg",
+   "size": 499064,
+   "sha256": "90afdfcc166c49415c91aa6870d7ff2bdb238f9473ec1f8f320c170bbadbc7bf",
+   "especie": "pomatomus-saltatrix"
+  },
+  {
+   "path": "img/pomatomus-saltatrix-2.jpg",
+   "size": 205017,
+   "sha256": "4c4a8f82edb80b49452f4e2c8643fae1e29645dbca1d5fa968702dfe59945ed4",
+   "especie": "pomatomus-saltatrix"
+  },
+  {
+   "path": "img/scorpaena-porcus-1.jpg",
+   "size": 270349,
+   "sha256": "932d4973d09f1ee9f8307e927ac40b58eee0a21aef518c5be03e4e525b2895fc",
+   "especie": "scorpaena-porcus"
+  },
+  {
+   "path": "img/scorpaena-porcus-2.jpg",
+   "size": 166690,
+   "sha256": "039803e0f6e48693771367fc30f4dfb7a69fd6b10b8b859fc05ee2ac2023ad6f",
+   "especie": "scorpaena-porcus"
+  },
+  {
+   "path": "img/lichia-amia-1.jpg",
+   "size": 199583,
+   "sha256": "db4d6c4cec866aa5f491f1e796012da34cc362c7536f5d2ac5eb2dfe8a6e820a",
+   "especie": "lichia-amia"
+  },
+  {
+   "path": "img/lichia-amia-2.jpg",
+   "size": 309381,
+   "sha256": "3fadf7e31f9efa09c54e2dd130c0330954e6797a2ff1fd82ccb59485c5c4c4d8",
+   "especie": "lichia-amia"
+  },
+  {
+   "path": "img/pagellus-erythrinus-1.jpg",
+   "size": 125594,
+   "sha256": "ed5acdd46dfb991b56191e16869d1fdf8b0ebf62dcf61d7dcdcf69e85d9b0ff1",
+   "especie": "pagellus-erythrinus"
+  },
+  {
+   "path": "img/trachinus-draco-1.jpg",
+   "size": 161322,
+   "sha256": "82d67df2481c75a0a4c270e50cbb2dd2c381335af1cc499bc150b591949ebf83",
+   "especie": "trachinus-draco"
+  },
+  {
+   "path": "img/trachinus-draco-2.jpg",
+   "size": 280847,
+   "sha256": "353e9a157c204144cb1d2f64ef0b10ed138fecedbdf8cc9d367b87206dcc2282",
+   "especie": "trachinus-draco"
+  },
+  {
+   "path": "img/umbrina-cirrosa-1.jpg",
+   "size": 202522,
+   "sha256": "1a1a311b1777a1c56f43b75ab9bef989f7678c4a7975ef43d6d35bb00d5a9ce1",
+   "especie": "umbrina-cirrosa"
+  },
+  {
+   "path": "img/oblada-melanurus-1.jpg",
+   "size": 96944,
+   "sha256": "9f60f46505fc497a0426caa2c14dee7e6240b342122375752a2f37ca7cb7ead2",
+   "especie": "oblada-melanurus"
+  },
+  {
+   "path": "img/sarpa-salpa-1.jpg",
+   "size": 290646,
+   "sha256": "68c007686ab110bbb92606b27a0b4abf93749d27fdcf2ac870b74f6942877b8a",
+   "especie": "sarpa-salpa"
+  },
+  {
+   "path": "img/trachurus-trachurus-1.jpg",
+   "size": 98029,
+   "sha256": "55627143d9623f82b3754c7d4ca76e714435e55aa8f429a16dd28cb698eb9fc0",
+   "especie": "trachurus-trachurus"
+  },
+  {
+   "path": "img/zeus-faber-1.jpg",
+   "size": 360324,
+   "sha256": "460917c671ecad6abf4a6a34d173380794bcf2a04b097f027cfb2b4fffe67bde",
+   "especie": "zeus-faber"
+  },
+  {
+   "path": "img/xiphias-gladius-1.jpg",
+   "size": 176031,
+   "sha256": "caf5da581cc5a65160f4135288eb119d0327f04b82204cbd2e5bd4f57857155b",
+   "especie": "xiphias-gladius"
+  },
+  {
+   "path": "img/xyrichtys-novacula-1.jpg",
+   "size": 175247,
+   "sha256": "834559192db74a7f98bf16b3f6b876439a67d9896736b16f1955b6bf375bb7bd",
+   "especie": "xyrichtys-novacula"
+  },
+  {
+   "path": "img/xyrichtys-novacula-2.jpg",
+   "size": 180993,
+   "sha256": "3068029cc00631cdb0aeb11221452abed1b80d58df1259d88b39862a33f89ce6",
+   "especie": "xyrichtys-novacula"
+  }
+ ],
+ "principales": [
+  "argyrosomus-regius",
+  "auxis-rochei",
+  "belone-belone",
+  "boops-boops",
+  "conger-conger",
+  "coryphaena-hippurus",
+  "dentex-dentex",
+  "dicentrarchus-labrax",
+  "diplodus-sargus",
+  "diplodus-vulgaris",
+  "epinephelus-marginatus",
+  "euthynnus-alletteratus",
+  "lagocephalus-sceleratus",
+  "lepidorhombus-boscii",
+  "lichia-amia",
+  "merluccius-merluccius",
+  "mullus-surmuletus",
+  "muraena-helena",
+  "oblada-melanurus",
+  "pagellus-acarne",
+  "pagellus-erythrinus",
+  "pagrus-pagrus",
+  "polyprion-americanus",
+  "pomatomus-saltatrix",
+  "pterois-miles",
+  "sarda-sarda",
+  "sarpa-salpa",
+  "scomber-colias",
+  "scomber-scombrus",
+  "scorpaena-porcus",
+  "scorpaena-scrofa",
+  "seriola-dumerili",
+  "serranus-cabrilla",
+  "serranus-scriba",
+  "sparus-aurata",
+  "sphyraena-viridensis",
+  "spondyliosoma-cantharus",
+  "thunnus-alalunga",
+  "thunnus-thynnus",
+  "trachinus-draco",
+  "trachurus-trachurus",
+  "umbrina-cirrosa",
+  "xiphias-gladius",
+  "xyrichtys-novacula",
+  "zeus-faber"
+ ]
+}

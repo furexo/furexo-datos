@@ -1,0 +1,17 @@
+{
+ "packs": [
+  {
+   "name": "pesca-fotos",
+   "version": "1.0",
+   "date": "2026-10-30",
+   "title": "Pesca · fotografías",
+   "desc": "Fotos reales para identificar las especies (Wikimedia Commons, con autor y licencia)",
+   "size": 12651836,
+   "entries": {
+    "fotos": 69,
+    "especies": 44
+   },
+   "base": "pesca-fotos-1.0"
+  }
+ ]
+}
